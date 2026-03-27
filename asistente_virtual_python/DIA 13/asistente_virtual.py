@@ -203,7 +203,7 @@ def pedir_cosas():
 pedir_cosas()
 
 
-'''hablar("Hola brillit, tu rey, te ama, y mañana sabado la pasaran muy bien fumando pito y preparando pizza ")'''
+
 
 
 
