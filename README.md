@@ -1,5 +1,5 @@
-🎤 Asistente Virtual por Voz en Python
-📌 Descripción
+# Asistente Virtual por Voz en Python 🎤 
+- 📌 Descripción
 
 Este proyecto es un asistente virtual controlado por voz desarrollado en Python.
 Permite interactuar mediante comandos hablados para realizar tareas como buscar información, reproducir música, contar bromas y más.
