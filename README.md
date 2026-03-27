@@ -4,7 +4,7 @@
 Este proyecto es un asistente virtual controlado por voz desarrollado en Python.
 Permite interactuar mediante comandos hablados para realizar tareas como buscar información, reproducir música, contar bromas y más.
 
-🚀 Funcionalidades
+Funcionalidades
 - ✅ Reconocimiento de voz (Speech-to-Text)
 - ✅ Respuesta hablada (Text-to-Speech)
 - ✅ Abrir páginas web (YouTube, Google)
@@ -17,7 +17,7 @@ Permite interactuar mediante comandos hablados para realizar tareas como buscar 
 
 ---
 
-🧠 Tecnologías utilizadas
+Tecnologías utilizadas
 - Python 🐍
 - speech_recognition
 - pyttsx3
@@ -41,16 +41,16 @@ Puedes decir cosas como:
 - "Cuéntame una broma"
 - "Precio de las acciones de Apple"
 - "Adiós"
-- 
+
 ---
 
 🧩 Posibles mejoras
-Integración con APIs más avanzadas
-Soporte para más comandos
-Interfaz gráfica
-Mejor reconocimiento de voz offline
-Soporte multi-idioma
+- Integración con APIs más avanzadas
+- Soporte para más comandos
+- Interfaz gráfica
+- Mejor reconocimiento de voz offline
+- Soporte multi-idioma
 
 
 Germán Rivera
-Apasionado por la tecnología, desarrollo backend y análisis de datos
+Apasionado por la tecnología, desarrollo backend y análisis de datos.
